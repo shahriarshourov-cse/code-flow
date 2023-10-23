@@ -1,0 +1,12 @@
+Colors used: Neon blue (#2272FF), black (#1D1D1)
+For Dark Mood ---
+#0B0C10   -> Primary Background Color
+#202833   -> Also Background color
+#C5C6C8   -> Text Color
+#66FCF1   -> h1,h2,h3
+#46A29F   -> border color and etc
+
+Font : Fira Sans Black & PT Serif
+
+For Day Mood ---
+
