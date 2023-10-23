@@ -6,7 +6,12 @@ For Dark Mood ---
 #66FCF1   -> h1,h2,h3
 #46A29F   -> border color and etc
 
-Font : Fira Sans Black & PT Serif
+Font : Fira Sans Black = Title & PT Serif = Text
 
 For Day Mood ---
+#5D001D
+#E3E2DE
+#E3AFBC
+#9B1750
+#EE4C7D
 
